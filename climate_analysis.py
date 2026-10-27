@@ -27,3 +27,5 @@ for line in climate_data:
             print(str(celsius)+", "+str(kelvin))
 
 """ Climate Analysis Tools """
+
+# TODO(smangham): Add call to process rainfall
